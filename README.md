@@ -9,8 +9,8 @@ Customizable iOS widgets for viewing lens content and stats
 3. Copy the contents of `Lens Profile Stats.js` from this repo and paste into Scriptable app
 4. Tap on the title of the script (`Untitled Script`) and rename it to `Lens Profile Stats`
 5. Go to your home screen and enter the wiggle mode to add widget
-6. Search for scriptable and select wheter you want a Small Medium or Large widget
-7. Tap the added widget and for the `Script` option select `Lens Profile Stats`
+6. Search for scriptable and select the size of widget you want (Small Medium or Large)
+7. Tap the added widget and select `Lens Profile Stats` for the `Script` option 
 8. For the `Parameter` option type a `lens hadle` you want to view stats of
 9. Add as many as widgets as you like with different parameters :)
 
