@@ -16,11 +16,13 @@ Customizable iOS widgets for viewing lens content and stats
 
 
 
-### Beta Roadmap
+### Current Roadmap
 
-- add widgets for post feeds( Profile | Popular | Trending )
-- add gallery view widgets for Images and Videos
-- add widget for a curated random nft image
+- add widgets for post feeds ( Profile | Popular | Trending | Interesting ) 
+- add url linking to profiles and posts
+- add themes ( dark | light | lens lime green )
+- add gallery view widgets for Images, Videos and Audio
+- add widget for a curated random image NFTs
 - add support for in app deep linking to lens mobile apps ( Orb | Phaver | Buttrfly )
 
 ### Contribute
