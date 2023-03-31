@@ -234,6 +234,8 @@ const createMediumWidget = async (widget, profileHandle, profileId) => {
     }
     let postMedia = await loadImageReq(postMediaUrl);
     widget.backgroundImage = postMedia;
+	mainStack.url = `https://lenster.xyz/posts/${selectedPost.id}`
+
     widget.presentMedium();
 };
 const createLargeWidget = async (widget, profileHandle, profileId) => {
@@ -289,6 +291,8 @@ const createLargeWidget = async (widget, profileHandle, profileId) => {
     }
     let postMedia = await loadImageReq(postMediaUrl);
     widget.backgroundImage = postMedia;
+	mainStack.url = `https://lenster.xyz/posts/${selectedPost.id}`
+
     widget.presentLarge();
 };
 const loadImageReq = async (url) => {
